@@ -34,6 +34,7 @@
 		</Compiler>
 		<Unit filename="lib/agregar_frente.hpp" />
 		<Unit filename="lib/agregar_pila.hpp" />
+		<Unit filename="lib/borrar_nodo.hpp" />
 		<Unit filename="lib/borrar_pila.hpp" />
 		<Unit filename="lib/crear_pila.hpp" />
 		<Unit filename="lib/eliminar_frente.hpp" />
