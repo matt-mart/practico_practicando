@@ -19,7 +19,7 @@ void Crear_Pila(
   int   _largo
 ){
 
-   Eliminar_Pila( _pila );
+   Borrar_Pila( _pila );
   _pila->head = Crear_Nodo(_largo);
 
 

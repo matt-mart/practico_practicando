@@ -1,24 +1,18 @@
-void Borrar_Pila (
+void Borrar_Pila(
   PILA* _pila
-){
+ ){
 
-  NODO* ptr_nodo = _pila->raiz;
+  if ( _pila->head == nullptr )
+    return;
 
-  while ( ptr_nodo != nullptr ){
+    //keo dice que es innecesario, pero a mi me queda
+    // mas lindo para leer así, te quiero mucho
+    //matt del futuro. :)
 
-    NODO* prox = ptr_nodo->prox;
-
-    delete ptr_nodo;
-
-    ptr_nodo = prox;
-
-  }
-
-
-
-  _pila->raiz  = nullptr;
+  Borrar_Nodo( _pila->head );
+  _pila->head  = nullptr;
   _pila->largo = 0;
 
 
+ }
 
-}
