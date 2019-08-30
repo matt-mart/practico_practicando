@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1567114407 source:c:\users\adminpc\desktop\eda\practico_practicando\main.cpp
+	<iostream>
+	"./lib/nodo.hpp"
+	"./lib/pila.hpp"
+	"./lib/eliminar_pila.hpp"
+	"./lib/crear_pila.hpp"
+	"./lib/mostrar_pila.hpp"
+	"./lib/agregar_frente.hpp"
+	"./lib/eliminar_frente.hpp"
+
+1567009021 c:\users\adminpc\desktop\eda\practico_practicando\lib\nodo.hpp
+
+1567017176 c:\users\adminpc\desktop\eda\practico_practicando\lib\pila.hpp
+
+1567032078 c:\users\adminpc\desktop\eda\practico_practicando\lib\eliminar_pila.hpp
+
+1567032094 c:\users\adminpc\desktop\eda\practico_practicando\lib\agregar_pila.hpp
+
+1567010135 c:\users\adminpc\desktop\eda\practico_practicando\lib\mostrar_pila.hpp
+
+1567102747 c:\users\adminpc\desktop\eda\practico_practicando\lib\crear_pila.hpp
+
+1567103879 c:\users\adminpc\desktop\eda\practico_practicando\lib\agregar_frente.hpp
+
+1567114384 c:\users\adminpc\desktop\eda\practico_practicando\lib\eliminar_frente.hpp
+
